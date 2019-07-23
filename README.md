@@ -6,31 +6,17 @@ gestiondesclientsdecinéma.
 
 
 admin sur le site:
-  __________________________
- |							|
- |	login : mohammed        |
- |							|
- |	password : mohammed     |
- |__________________________|
+* login : mohammed        
+* password : mohammed     
+
 
 le lien :
- 	 ____________________________________
- 	|                                    |
-	| https://moviem.000webhostapp.com/  | v V
-	|____________________________________|
+	https://moviem.000webhostapp.com/
 
------------------------------------------------------
-
-le lien pour les fichier de site :
-
-	https://files.000webhost.com/
-
-admin sur la gestion des fichier (se dernier lien ):
-
-	Website Name : moviem
-	
-	password : mohammed
-
+<img src="Screens/1.png" align="center" />
+<img src="Screens/2.png" align="center" />
+<img src="Screens/3.png" align="center" />
+<img src="Screens/4.png" align="center" />
 
 ***
 ### Links
